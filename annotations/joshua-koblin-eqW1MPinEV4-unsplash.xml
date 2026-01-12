@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>joshua-koblin-eqW1MPinEV4-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\joshua-koblin-eqW1MPinEV4-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5041</width>
+		<height>3361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>1530</ymin>
+			<xmax>4805</xmax>
+			<ymax>2977</ymax>
+		</bndbox>
+	</object>
+</annotation>

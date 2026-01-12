@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>jamie-street-MoDcnVRN5JU-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\jamie-street-MoDcnVRN5JU-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4978</width>
+		<height>3734</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1875</xmin>
+			<ymin>4</ymin>
+			<xmax>4961</xmax>
+			<ymax>2467</ymax>
+		</bndbox>
+	</object>
+</annotation>

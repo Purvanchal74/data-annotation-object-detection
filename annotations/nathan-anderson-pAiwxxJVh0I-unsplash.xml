@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>nathan-anderson-pAiwxxJVh0I-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\nathan-anderson-pAiwxxJVh0I-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6016</width>
+		<height>4016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fox</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2254</xmin>
+			<ymin>1120</ymin>
+			<xmax>6016</xmax>
+			<ymax>3988</ymax>
+		</bndbox>
+	</object>
+</annotation>

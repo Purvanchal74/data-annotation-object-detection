@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>stephan-louis-QjrILOZV8-U-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\stephan-louis-QjrILOZV8-U-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4327</width>
+		<height>6491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>2905</ymin>
+			<xmax>3853</xmax>
+			<ymax>5372</ymax>
+		</bndbox>
+	</object>
+</annotation>

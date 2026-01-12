@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>prithivi-rajan-rQhcnKu-IWU-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\prithivi-rajan-rQhcnKu-IWU-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5614</width>
+		<height>3743</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>441</ymin>
+			<xmax>5297</xmax>
+			<ymax>3515</ymax>
+		</bndbox>
+	</object>
+</annotation>

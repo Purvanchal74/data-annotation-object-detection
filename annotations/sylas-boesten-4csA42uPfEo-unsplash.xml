@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>sylas-boesten-4csA42uPfEo-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\sylas-boesten-4csA42uPfEo-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2895</width>
+		<height>3619</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1660</xmin>
+			<ymin>1409</ymin>
+			<xmax>1988</xmax>
+			<ymax>2416</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>gabriel-santos-GBVDilE8yvI-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\gabriel-santos-GBVDilE8yvI-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>964</ymin>
+			<xmax>2946</xmax>
+			<ymax>3608</ymax>
+		</bndbox>
+	</object>
+</annotation>

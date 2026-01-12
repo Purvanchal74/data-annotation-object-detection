@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>gary-bendig-Yu-qayee34c-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\gary-bendig-Yu-qayee34c-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5172</width>
+		<height>3444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>942</xmin>
+			<ymin>825</ymin>
+			<xmax>3246</xmax>
+			<ymax>3342</ymax>
+		</bndbox>
+	</object>
+</annotation>

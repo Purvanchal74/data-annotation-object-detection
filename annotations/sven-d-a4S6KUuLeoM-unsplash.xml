@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>sven-d-a4S6KUuLeoM-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\sven-d-a4S6KUuLeoM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3022</xmin>
+			<ymin>2096</ymin>
+			<xmax>5234</xmax>
+			<ymax>3436</ymax>
+		</bndbox>
+	</object>
+</annotation>

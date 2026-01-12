@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>campbell-3ZUsNJhi_Ik-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\campbell-3ZUsNJhi_Ik-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3709</width>
+		<height>2473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>753</ymin>
+			<xmax>3182</xmax>
+			<ymax>1928</ymax>
+		</bndbox>
+	</object>
+</annotation>

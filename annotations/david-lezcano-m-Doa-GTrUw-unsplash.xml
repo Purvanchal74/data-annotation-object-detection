@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>david-lezcano-m-Doa-GTrUw-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\david-lezcano-m-Doa-GTrUw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>5472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>726</xmin>
+			<ymin>1936</ymin>
+			<xmax>3074</xmax>
+			<ymax>5472</ymax>
+		</bndbox>
+	</object>
+</annotation>

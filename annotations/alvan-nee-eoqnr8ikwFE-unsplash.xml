@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>alvan-nee-eoqnr8ikwFE-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\alvan-nee-eoqnr8ikwFE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2744</width>
+		<height>4049</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>1032</ymin>
+			<xmax>2242</xmax>
+			<ymax>3664</ymax>
+		</bndbox>
+	</object>
+</annotation>

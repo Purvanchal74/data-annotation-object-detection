@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>eric-heininger-1P9_gs54iZw-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\eric-heininger-1P9_gs54iZw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>3456</ymin>
+			<xmax>3841</xmax>
+			<ymax>5787</ymax>
+		</bndbox>
+	</object>
+</annotation>

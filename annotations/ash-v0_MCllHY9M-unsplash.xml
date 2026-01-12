@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>ash-v0_MCllHY9M-unsplash.jpg</filename>
+	<path>C:\Users\_\OneDrive\Desktop\object-detection-data-annotation\Images\ash-v0_MCllHY9M-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>976</ymin>
+			<xmax>2362</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+</annotation>
