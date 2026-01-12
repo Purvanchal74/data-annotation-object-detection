@@ -1,0 +1,7 @@
+human
+car
+horse
+elephant
+bike
+truck
+dog
